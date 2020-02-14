@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """script to parse output from sslscan and find common issues, then dump into a docx"""
 try:
     import argparse
